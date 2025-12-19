@@ -1,0 +1,20 @@
+# Папки VS Studio
+.vs/
+.vscode/
+otchetes/
+
+# Файлы сборки
+[Bb]in/
+[Oo]bj/
+*.exe
+*.pdb
+*.dll
+
+
+# Временные файлы
+*.tmp
+*.temp
+*.log
+
+# Системные файлы
+Thumbs.db
